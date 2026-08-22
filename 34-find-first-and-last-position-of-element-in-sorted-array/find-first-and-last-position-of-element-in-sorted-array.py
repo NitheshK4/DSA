@@ -1,7 +1,7 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        if not nums:
-            return [-1,-1]
+        #if not nums:
+         #   return [-1,-1]
         def binsearch(find_left):
             left=0
             right=len(nums)-1

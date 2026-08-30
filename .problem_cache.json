@@ -517,5 +517,13 @@
       "Linked List",
       "Two Pointers"
     ]
+  },
+  "length-of-last-word": {
+    "frontend_id": "58",
+    "title": "Length of Last Word",
+    "difficulty": "Easy",
+    "tags": [
+      "String"
+    ]
   }
 }

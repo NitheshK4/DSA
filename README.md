@@ -24,8 +24,8 @@
 
 | Metric | LeetCode Profile | Repository Solutions | Status |
 | :--- | :---: | :---: | :---: |
-| 🌟 **Total Solved** | **116** | **54** | `46.6% Synced` |
-| 🟢 **Easy** | `71` | `31` | `🟢 43.7%` |
+| 🌟 **Total Solved** | **117** | **55** | `47.0% Synced` |
+| 🟢 **Easy** | `72` | `32` | `🟢 44.4%` |
 | 🟡 **Medium** | `42` | `22` | `🟡 52.4%` |
 | 🔴 **Hard** | `3` | `1` | `🔴 33.3%` |
 | 🏆 **Global Rank** | `#1,450,961` | — | `Top Tier` |
@@ -36,7 +36,7 @@
 
 | Topic | Solved in Repo | Direct Jump |
 | :--- | :---: | :--- |
-| **📊 Arrays & Hashing** | `5` | [Jump to Section ➔](#-arrays-and-hashing) |
+| **📊 Arrays & Hashing** | `6` | [Jump to Section ➔](#-arrays-and-hashing) |
 | **⏳ Two Pointers & Sliding Window** | `3` | [Jump to Section ➔](#-two-pointers-and-sliding-window) |
 | **🔍 Binary Search** | `10` | [Jump to Section ➔](#-binary-search) |
 | **🥞 Stacks, Queues & Heaps** | `2` | [Jump to Section ➔](#-stacks-queues-and-heaps) |
@@ -56,11 +56,12 @@
 ### 📊 Arrays & Hashing
 <a id="-arrays-and-hashing"></a>
 
-*Total Problems: **5***
+*Total Problems: **6***
 
 | # | Problem Title | Difficulty | Solution | Notes | Subtopics / Tags |
 | :---: | :--- | :---: | :---: | :---: | :--- |
 | **49** | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | `🟡 Medium` | [🐍 Python](./49-group-anagrams/group-anagrams.py) | — | `Array`, `Hash Table`, `String` `+1` |
+| **58** | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | `🟢 Easy` | [🐍 Python](./58-length-of-last-word/length-of-last-word.py) | — | `String` |
 | **128** | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | `🟡 Medium` | [🐍 Python](./128-longest-consecutive-sequence/longest-consecutive-sequence.py) | — | `Array`, `Hash Table`, `Union-Find` |
 | **274** | [H-Index](https://leetcode.com/problems/h-index) | `🟡 Medium` | [🐍 Python](./274-h-index/h-index.py) | — | `Array`, `Sorting`, `Counting Sort` |
 | **414** | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | `🟢 Easy` | [🐍 Python](./414-third-maximum-number/third-maximum-number.py) | — | `Array`, `Sorting` |
@@ -249,5 +250,5 @@ python3 scripts/sync_readme.py
 ---
 
 <div align="center">
-<i>Last synchronized on 2026-08-30 12:08 UTC • Maintained by <a href="https://github.com/NitheshK4">@NitheshK4</a></i>
+<i>Last synchronized on 2026-08-30 13:05 UTC • Maintained by <a href="https://github.com/NitheshK4">@NitheshK4</a></i>
 </div>

@@ -535,5 +535,14 @@
       "String",
       "Dynamic Programming"
     ]
+  },
+  "isomorphic-strings": {
+    "frontend_id": "205",
+    "title": "Isomorphic Strings",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
   }
 }

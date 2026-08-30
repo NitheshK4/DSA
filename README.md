@@ -24,8 +24,8 @@
 
 | Metric | LeetCode Profile | Repository Solutions | Status |
 | :--- | :---: | :---: | :---: |
-| 🌟 **Total Solved** | **119** | **57** | `47.9% Synced` |
-| 🟢 **Easy** | `74` | `34` | `🟢 45.9%` |
+| 🌟 **Total Solved** | **120** | **58** | `48.3% Synced` |
+| 🟢 **Easy** | `75` | `35` | `🟢 46.7%` |
 | 🟡 **Medium** | `42` | `22` | `🟡 52.4%` |
 | 🔴 **Hard** | `3` | `1` | `🔴 33.3%` |
 | 🏆 **Global Rank** | `#1,450,961` | — | `Top Tier` |
@@ -36,7 +36,7 @@
 
 | Topic | Solved in Repo | Direct Jump |
 | :--- | :---: | :--- |
-| **📊 Arrays & Hashing** | `7` | [Jump to Section ➔](#-arrays-and-hashing) |
+| **📊 Arrays & Hashing** | `8` | [Jump to Section ➔](#-arrays-and-hashing) |
 | **⏳ Two Pointers & Sliding Window** | `3` | [Jump to Section ➔](#-two-pointers-and-sliding-window) |
 | **🔍 Binary Search** | `10` | [Jump to Section ➔](#-binary-search) |
 | **🥞 Stacks, Queues & Heaps** | `2` | [Jump to Section ➔](#-stacks-queues-and-heaps) |
@@ -56,7 +56,7 @@
 ### 📊 Arrays & Hashing
 <a id="-arrays-and-hashing"></a>
 
-*Total Problems: **7***
+*Total Problems: **8***
 
 | # | Problem Title | Difficulty | Solution | Notes | Subtopics / Tags |
 | :---: | :--- | :---: | :---: | :---: | :--- |
@@ -65,6 +65,7 @@
 | **128** | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | `🟡 Medium` | [🐍 Python](./128-longest-consecutive-sequence/longest-consecutive-sequence.py) | — | `Array`, `Hash Table`, `Union-Find` |
 | **205** | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | `🟢 Easy` | [🐍 Python](./205-isomorphic-strings/isomorphic-strings.py) | — | `Hash Table`, `String` |
 | **274** | [H-Index](https://leetcode.com/problems/h-index) | `🟡 Medium` | [🐍 Python](./274-h-index/h-index.py) | — | `Array`, `Sorting`, `Counting Sort` |
+| **290** | [Word Pattern](https://leetcode.com/problems/word-pattern) | `🟢 Easy` | [🐍 Python](./290-word-pattern/word-pattern.py) | — | `Hash Table`, `String` |
 | **414** | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | `🟢 Easy` | [🐍 Python](./414-third-maximum-number/third-maximum-number.py) | — | `Array`, `Sorting` |
 | **3718** | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | `🟢 Easy` | [🐍 Python](./4080-smallest-missing-multiple-of-k/smallest-missing-multiple-of-k.py) | — | `Array`, `Hash Table` |
 
@@ -252,5 +253,5 @@ python3 scripts/sync_readme.py
 ---
 
 <div align="center">
-<i>Last synchronized on 2026-08-30 16:42 UTC • Maintained by <a href="https://github.com/NitheshK4">@NitheshK4</a></i>
+<i>Last synchronized on 2026-08-30 17:06 UTC • Maintained by <a href="https://github.com/NitheshK4">@NitheshK4</a></i>
 </div>

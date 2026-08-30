@@ -544,5 +544,14 @@
       "Hash Table",
       "String"
     ]
+  },
+  "word-pattern": {
+    "frontend_id": "290",
+    "title": "Word Pattern",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
   }
 }

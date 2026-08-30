@@ -1,0 +1,521 @@
+{
+  "same-tree": {
+    "frontend_id": "100",
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  "squares-of-a-sorted-array": {
+    "frontend_id": "977",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  "balanced-binary-tree": {
+    "frontend_id": "110",
+    "title": "Balanced Binary Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  "last-stone-weight": {
+    "frontend_id": "1046",
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  "product-sales-analysis-i": {
+    "frontend_id": "1068",
+    "title": "Product Sales Analysis I",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ]
+  },
+  "best-time-to-buy-and-sell-stock": {
+    "frontend_id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  "article-views-i": {
+    "frontend_id": "1148",
+    "title": "Article Views I",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ]
+  },
+  "longest-consecutive-sequence": {
+    "frontend_id": "128",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
+    ]
+  },
+  "linked-list-cycle-ii": {
+    "frontend_id": "142",
+    "title": "Linked List Cycle II",
+    "difficulty": "Medium",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ]
+  },
+  "replace-employee-id-with-the-unique-identifier": {
+    "frontend_id": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ]
+  },
+  "find-minimum-in-rotated-sorted-array": {
+    "frontend_id": "153",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  "min-stack": {
+    "frontend_id": "155",
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  "find-peak-element": {
+    "frontend_id": "162",
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  "letter-combinations-of-a-phone-number": {
+    "frontend_id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  "invalid-tweets": {
+    "frontend_id": "1683",
+    "title": "Invalid Tweets",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ]
+  },
+  "reverse-bits": {
+    "frontend_id": "190",
+    "title": "Reverse Bits",
+    "difficulty": "Easy",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  "recyclable-and-low-fat-products": {
+    "frontend_id": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ]
+  },
+  "number-of-1-bits": {
+    "frontend_id": "191",
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  "house-robber": {
+    "frontend_id": "198",
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  "merge-two-sorted-lists": {
+    "frontend_id": "21",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  "invert-binary-tree": {
+    "frontend_id": "226",
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  "rearrange-array-elements-by-sign": {
+    "frontend_id": "2149",
+    "title": "Rearrange Array Elements by Sign",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Simulation"
+    ]
+  },
+  "palindrome-linked-list": {
+    "frontend_id": "234",
+    "title": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  "lowest-common-ancestor-of-a-binary-search-tree": {
+    "frontend_id": "235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ]
+  },
+  "delete-node-in-a-linked-list": {
+    "frontend_id": "237",
+    "title": "Delete Node in a Linked List",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  "remove-element": {
+    "frontend_id": "27",
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  "h-index": {
+    "frontend_id": "274",
+    "title": "H-Index",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  "nim-game": {
+    "frontend_id": "292",
+    "title": "Nim Game",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Brainteaser",
+      "Minimax",
+      "Game Theory",
+      "Nim Game",
+      "Impartial Game"
+    ]
+  },
+  "search-in-rotated-sorted-array": {
+    "frontend_id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  "counting-bits": {
+    "frontend_id": "338",
+    "title": "Counting Bits",
+    "difficulty": "Easy",
+    "tags": [
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ]
+  },
+  "find-first-and-last-position-of-element-in-sorted-array": {
+    "frontend_id": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  "intersection-of-two-arrays": {
+    "frontend_id": "349",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  "intersection-of-two-arrays-ii": {
+    "frontend_id": "350",
+    "title": "Intersection of Two Arrays II",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  "median-of-two-sorted-arrays": {
+    "frontend_id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  "smallest-missing-multiple-of-k": {
+    "frontend_id": "3718",
+    "title": "Smallest Missing Multiple of K",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  "third-maximum-number": {
+    "frontend_id": "414",
+    "title": "Third Maximum Number",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  "rotate-image": {
+    "frontend_id": "48",
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  "group-anagrams": {
+    "frontend_id": "49",
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  "powx-n": {
+    "frontend_id": "50",
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  "maximum-subarray": {
+    "frontend_id": "53",
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  "jump-game": {
+    "frontend_id": "55",
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  "subtree-of-another-tree": {
+    "frontend_id": "572",
+    "title": "Subtree of Another Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  "find-customer-referee": {
+    "frontend_id": "584",
+    "title": "Find Customer Referee",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ]
+  },
+  "big-countries": {
+    "frontend_id": "595",
+    "title": "Big Countries",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ]
+  },
+  "plus-one": {
+    "frontend_id": "66",
+    "title": "Plus One",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  "add-binary": {
+    "frontend_id": "67",
+    "title": "Add Binary",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  "sqrtx": {
+    "frontend_id": "69",
+    "title": "Sqrt(x)",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Binary Search",
+      "Newton's Method"
+    ]
+  },
+  "reverse-integer": {
+    "frontend_id": "7",
+    "title": "Reverse Integer",
+    "difficulty": "Medium",
+    "tags": [
+      "Math"
+    ]
+  },
+  "set-matrix-zeroes": {
+    "frontend_id": "73",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  "min-cost-climbing-stairs": {
+    "frontend_id": "746",
+    "title": "Min Cost Climbing Stairs",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  "subsets": {
+    "frontend_id": "78",
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  "binary-search": {
+    "frontend_id": "704",
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  "search-in-rotated-sorted-array-ii": {
+    "frontend_id": "81",
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  "middle-of-the-linked-list": {
+    "frontend_id": "876",
+    "title": "Middle of the Linked List",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  }
+}
